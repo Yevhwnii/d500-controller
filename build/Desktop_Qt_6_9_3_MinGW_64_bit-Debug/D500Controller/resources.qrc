@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>icons/power-tower-icon.svg</file>
-        <file>icons/battery-icon.svg</file>
-        <file>icons/automatization-icon.svg</file>
-        <file>icons/gears-icon.svg</file>
-        <file>icons/hand-icon.svg</file>
-    </qresource>
-</RCC>

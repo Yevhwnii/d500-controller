@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/D500Controller/">
-    <file alias="qml/qmldir">D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/D500Controller/qml/qmldir</file>
-    <file alias="qml/panels/qmldir">D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/D500Controller/qml/panels/qmldir</file>
-    <file alias="qml/components/qmldir">D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/D500Controller/qml/components/qmldir</file>
-  </qresource>
-</RCC>
-
