@@ -110,13 +110,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 81,
+				"line" : 82,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 76,
+				"line" : 77,
 				"parent" : 0
 			},
 			{
@@ -484,6 +484,47 @@
 				"parent" : 72
 			},
 			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 20,
+				"file" : 25,
+				"line" : 1,
+				"parent" : 74
+			},
+			{
+				"command" : 19,
+				"file" : 0,
+				"line" : 877,
+				"parent" : 75
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 799,
+				"parent" : 76
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 799,
+				"parent" : 77
+			},
+			{
+				"command" : 16,
+				"file" : 14,
+				"line" : 4516,
+				"parent" : 78
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 4291,
+				"parent" : 79
+			},
+			{
 				"command" : 14,
 				"file" : 14,
 				"line" : 3613,
@@ -493,47 +534,6 @@
 				"command" : 13,
 				"file" : 14,
 				"line" : 2976,
-				"parent" : 74
-			},
-			{
-				"file" : 1,
-				"line" : -1,
-				"parent" : 0
-			},
-			{
-				"command" : 20,
-				"file" : 25,
-				"line" : 1,
-				"parent" : 76
-			},
-			{
-				"command" : 19,
-				"file" : 0,
-				"line" : 877,
-				"parent" : 77
-			},
-			{
-				"command" : 18,
-				"file" : 0,
-				"line" : 799,
-				"parent" : 78
-			},
-			{
-				"command" : 17,
-				"file" : 0,
-				"line" : 799,
-				"parent" : 79
-			},
-			{
-				"command" : 16,
-				"file" : 14,
-				"line" : 4516,
-				"parent" : 80
-			},
-			{
-				"command" : 13,
-				"file" : 14,
-				"line" : 4291,
 				"parent" : 81
 			},
 			{
@@ -779,7 +779,7 @@
 			{
 				"command" : 30,
 				"file" : 1,
-				"line" : 55,
+				"line" : 56,
 				"parent" : 0
 			},
 			{
@@ -810,7 +810,7 @@
 				"command" : 31,
 				"file" : 27,
 				"line" : 1,
-				"parent" : 76
+				"parent" : 74
 			},
 			{
 				"command" : 28,
@@ -840,7 +840,7 @@
 				"command" : 32,
 				"file" : 0,
 				"line" : 871,
-				"parent" : 77
+				"parent" : 75
 			},
 			{
 				"command" : 23,
@@ -1298,12 +1298,12 @@
 			"id" : "appD500Controller_copy_qml::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 75,
-			"id" : "appD500Controller_copy_res::@6890427a1f51a3e7e1df"
+			"backtrace" : 80,
+			"id" : "appD500Controller_qmlimportscan::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 82,
-			"id" : "appD500Controller_qmlimportscan::@6890427a1f51a3e7e1df"
+			"id" : "appD500Controller_copy_res::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "appD500Controller_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
@@ -1496,13 +1496,12 @@
 				40,
 				41,
 				42,
-				44,
 				45,
 				46,
 				47,
 				48,
-				54,
-				75,
+				49,
+				55,
 				76,
 				77,
 				78,
@@ -1513,7 +1512,8 @@
 				83,
 				84,
 				85,
-				86
+				86,
+				87
 			]
 		},
 		{
@@ -1555,18 +1555,24 @@
 			"sourceIndexes" : 
 			[
 				43,
-				49,
 				50,
 				51,
 				52,
-				53
+				53,
+				54
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				44
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				55,
 				56,
 				57,
 				58,
@@ -1585,7 +1591,8 @@
 				71,
 				72,
 				73,
-				74
+				74,
+				75
 			]
 		}
 	],
@@ -1795,14 +1802,14 @@
 		},
 		{
 			"backtrace" : 113,
-			"path" : "StatusBar.qml",
+			"path" : "qml/components/StatusBar.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 114,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_StatusBar_qml.cpp",
+			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/components/StatusBar_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -1855,6 +1862,11 @@
 			"backtrace" : 134,
 			"path" : "resources.qrc",
 			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 134,
+			"path" : ".gitignore",
+			"sourceGroupIndex" : 4
 		},
 		{
 			"backtrace" : 134,
@@ -1921,121 +1933,121 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/meta_types/qt6appd500controller_debug_metatypes.json.gen.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/appd500controller_qmltyperegistrations.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_D500Controller.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qmlcache_loader.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/Main_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/Controls_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/InformationPanel_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/panels/Engine_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/panels/Connection_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/panels/Network_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/panels/ManualControl_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/components/DataCell_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_StatusBar_qml.cpp.rule",
-			"sourceGroupIndex" : 4
+			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/components/StatusBar_qml.cpp.rule",
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/qrc_appD500Controller_raw_qml_0.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/qrc_appD500Controller_raw_qml_0_extra_qmldirs.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/qrc_resources.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/qrc_appD500Controller_translations.cpp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/appD500Controller_autogen/timestamp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/meta_types/appD500Controller_json_file_list.txt.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ua_UA.qm.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		},
 		{
 			"backtrace" : 43,

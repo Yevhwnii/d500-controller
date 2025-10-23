@@ -50,6 +50,7 @@ qt_add_qml_module(appD500Controller
         src/abstracts/AbstractStats.h src/abstracts/AbstractStats.cpp
         src/NetworkStats.h src/NetworkStats.cpp
         src/ManualController.h src/ManualController.cpp
+        RESOURCES .gitignore
 )
 
 qt_add_resources(appD500Controller "resources"

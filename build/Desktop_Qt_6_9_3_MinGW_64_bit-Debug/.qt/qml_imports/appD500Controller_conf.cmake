@@ -1,4 +1,4 @@
-set(qml_import_scanner_imports_count 34)
+set(qml_import_scanner_imports_count 36)
 set(qml_import_scanner_import_0 "CLASSNAME;QtQuick2Plugin;LINKTARGET;Qt6::qtquick2plugin;NAME;QtQuick;PATH;D:/Work/Software/Qt/6.9.3/mingw_64/qml/QtQuick;PLUGIN;qtquick2plugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQuick/;RELATIVEPATH;QtQuick;TYPE;module;")
 set(qml_import_scanner_import_1 "CLASSNAME;QtQmlPlugin;LINKTARGET;Qt6::qmlplugin;NAME;QtQml;PATH;D:/Work/Software/Qt/6.9.3/mingw_64/qml/QtQml;PLUGIN;qmlplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQml/;RELATIVEPATH;QtQml;TYPE;module;")
 set(qml_import_scanner_import_2 "NAME;QML;PATH;D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/D500Controller/QML;PREFER;:/qt/qml/D500Controller/;RELATIVEPATH;QML;TYPE;module;")
@@ -30,7 +30,9 @@ set(qml_import_scanner_import_27 "CLASSNAME;QtQuickControls2WindowsStyleImplPlug
 set(qml_import_scanner_import_28 "CLASSNAME;QtQuickControls2BasicStyleImplPlugin;LINKTARGET;Qt6::qtquickcontrols2basicstyleimplplugin;NAME;QtQuick.Controls.Basic.impl;PATH;D:/Work/Software/Qt/6.9.3/mingw_64/qml/QtQuick/Controls/Basic/impl;PLUGIN;qtquickcontrols2basicstyleimplplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/QtQuick/Controls/Basic/impl/;RELATIVEPATH;QtQuick/Controls/Basic/impl;TYPE;module;")
 set(qml_import_scanner_import_29 "CLASSNAME;QtQmlLabsModelsPlugin;LINKTARGET;Qt6::labsmodelsplugin;NAME;Qt.labs.qmlmodels;PATH;D:/Work/Software/Qt/6.9.3/mingw_64/qml/Qt/labs/qmlmodels;PLUGIN;labsmodelsplugin;PLUGINISOPTIONAL;;PREFER;:/qt-project.org/imports/Qt/labs/qmlmodels/;RELATIVEPATH;Qt/labs/qmlmodels;TYPE;module;")
 set(qml_import_scanner_import_30 "NAME;panels;PATH;D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/D500Controller/qml/panels;TYPE;directory;")
-set(qml_import_scanner_import_31 "NAME;../components;PATH;D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/D500Controller/qml/components;TYPE;directory;")
-set(qml_import_scanner_import_32 "NAME;panels;PATH;D:/Projects/Qt/D500Controller/qml/panels;TYPE;directory;")
-set(qml_import_scanner_import_33 "NAME;../components;PATH;D:/Projects/Qt/D500Controller/qml/components;TYPE;directory;")
+set(qml_import_scanner_import_31 "NAME;components;PATH;D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/D500Controller/qml/components;TYPE;directory;")
+set(qml_import_scanner_import_32 "NAME;../components;PATH;D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/D500Controller/qml/components;TYPE;directory;")
+set(qml_import_scanner_import_33 "NAME;panels;PATH;D:/Projects/Qt/D500Controller/qml/panels;TYPE;directory;")
+set(qml_import_scanner_import_34 "NAME;components;PATH;D:/Projects/Qt/D500Controller/qml/components;TYPE;directory;")
+set(qml_import_scanner_import_35 "NAME;../components;PATH;D:/Projects/Qt/D500Controller/qml/components;TYPE;directory;")
 

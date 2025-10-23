@@ -5,8 +5,7 @@
 		"commands" : 
 		[
 			"add_custom_target",
-			"_qt_internal_deferred_aotstats_setup",
-			"add_dependencies"
+			"_qt_internal_deferred_aotstats_setup"
 		],
 		"files" : 
 		[
@@ -33,13 +32,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 1193,
-				"parent" : 2
-			},
-			{
-				"command" : 2,
-				"file" : 0,
-				"line" : 1198,
+				"line" : 1254,
 				"parent" : 2
 			}
 		]
@@ -47,16 +40,11 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 4,
-			"id" : "appD500Controller_qmltyperegistration::@6890427a1f51a3e7e1df"
+			"id" : "module_appD500Controller_aotstats_target::@6890427a1f51a3e7e1df"
 		}
 	],
-	"folder" : 
-	{
-		"name" : "QtInternalTargets"
-	},
-	"id" : "module_appD500Controller_aotstats_target::@6890427a1f51a3e7e1df",
-	"name" : "module_appD500Controller_aotstats_target",
+	"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+	"name" : "all_aotstats",
 	"paths" : 
 	{
 		"build" : ".",
@@ -86,7 +74,8 @@
 				9,
 				10,
 				11,
-				12
+				12,
+				13
 			]
 		}
 	],
@@ -95,25 +84,25 @@
 		{
 			"backtrace" : 3,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/module_appD500Controller_aotstats_target",
+			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/all_aotstats",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/module_appD500Controller_aotstats_target.rule",
+			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/all_aotstats.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/all_aotstats.aotstats.rule",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/module_appD500Controller.aotstats.rule",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 0,
-			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_StatusBar_qml.cpp.rule",
 			"sourceGroupIndex" : 1
 		},
 		{
@@ -138,6 +127,12 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/components/DataCell_qml.cpp.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.rcc/qmlcache/appD500Controller_qml/components/StatusBar_qml.cpp.rule",
 			"sourceGroupIndex" : 1
 		},
 		{

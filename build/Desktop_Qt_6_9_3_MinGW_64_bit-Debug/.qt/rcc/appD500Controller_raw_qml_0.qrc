@@ -10,6 +10,7 @@
     <file alias="qml/components/DataCell.qml">D:/Projects/Qt/D500Controller/qml/components/DataCell.qml</file>
     <file alias="qml/components/StatusBar.qml">D:/Projects/Qt/D500Controller/qml/components/StatusBar.qml</file>
     <file alias="resources.qrc">D:/Projects/Qt/D500Controller/resources.qrc</file>
+    <file alias=".gitignore">D:/Projects/Qt/D500Controller/.gitignore</file>
   </qresource>
 </RCC>
 
