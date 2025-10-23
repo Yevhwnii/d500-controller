@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/translations">
+    <file alias="app_en.qm">D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/app_en.qm</file>
+    <file alias="app_ua.qm">D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/app_ua.qm</file>
+  </qresource>
+</RCC>
+

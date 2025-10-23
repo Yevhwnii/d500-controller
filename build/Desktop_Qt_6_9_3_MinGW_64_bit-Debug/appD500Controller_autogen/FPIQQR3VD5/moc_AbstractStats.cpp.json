@@ -1,0 +1,38 @@
+{
+    "classes": [
+        {
+            "className": "AbstractStats",
+            "lineNumber": 8,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "intervalMs",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "startPolling",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "stopPolling",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "AbstractStats",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "AbstractStats.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "isDeviceConnected",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "",
+                        "functionName": "currentIndex",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "isVisible",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "isVisible",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "isVisible",
+                        "line": 40
+                    }
+                ],
+                "filePath": "D:/Projects/Qt/D500Controller/qml/InformationPanel.qml"
+            }
+        ],
+        "moduleId": "D500Controller(appD500Controller)"
+    }
+]

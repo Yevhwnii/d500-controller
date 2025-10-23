@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "className": "SettingsManager",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "ip",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "port",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "saveDevice",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "loadLastDevice",
+                    "returnType": "QVariantMap"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "SettingsManager",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "SettingsManager.h",
+    "outputRevision": 69
+}

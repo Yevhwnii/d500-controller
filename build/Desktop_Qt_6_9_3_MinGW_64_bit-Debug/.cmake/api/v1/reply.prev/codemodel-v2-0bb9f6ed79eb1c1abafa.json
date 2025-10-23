@@ -1,0 +1,241 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9b9814f44bdc14892b89.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "D500Controller",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "D500Controller_lrelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D500Controller_lrelease-Debug-2a09abe995e54f35985e.json",
+					"name" : "D500Controller_lrelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D500Controller_lupdate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D500Controller_lupdate-Debug-76c91f13f87d56d44adc.json",
+					"name" : "D500Controller_lupdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-4b31604ae3e34c80a0a0.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-3c31475834e9342ec8b2.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-e23ef7e3ebfcce74e142.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-d5b77abec2076fc12f59.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-bfcb8df23605306dec04.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller-Debug-73204892cd7d313551f0.json",
+					"name" : "appD500Controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_autogen-Debug-529311a580524f58b771.json",
+					"name" : "appD500Controller_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_autogen_timestamp_deps-Debug-a51966890d23ce8fd3c8.json",
+					"name" : "appD500Controller_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_copy_qml-Debug-3e6132340747297d9f88.json",
+					"name" : "appD500Controller_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_copy_res-Debug-7e370ac07eabd7468798.json",
+					"name" : "appD500Controller_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_other_files-Debug-21deafb03f00a67531a5.json",
+					"name" : "appD500Controller_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_qmlimportscan-Debug-7582e579bed8426f29fe.json",
+					"name" : "appD500Controller_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_qmllint-Debug-49754c424d81af9e4fb2.json",
+					"name" : "appD500Controller_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_qmllint_json-Debug-f94855570a8a18a1a1eb.json",
+					"name" : "appD500Controller_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_qmllint_module-Debug-17da1dcea3b7ebaf2fbb.json",
+					"name" : "appD500Controller_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appD500Controller_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appD500Controller_qmltyperegistration-Debug-1bc1478d3e6e268b8fa0.json",
+					"name" : "appD500Controller_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appD500Controller_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appD500Controller_aotstats_target-Debug-43a07f6ae5b3cb2f3c5d.json",
+					"name" : "module_appD500Controller_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "release_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-release_translations-Debug-761e13c6e055b5a9ac67.json",
+					"name" : "release_translations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "update_translations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-update_translations-Debug-c8eeca32a5beba23d05f.json",
+					"name" : "update_translations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug",
+		"source" : "D:/Projects/Qt/D500Controller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

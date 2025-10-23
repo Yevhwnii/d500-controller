@@ -1,0 +1,177 @@
+{
+    "classes": [
+        {
+            "className": "EngineStats",
+            "enums": [
+                {
+                    "isClass": false,
+                    "isFlag": false,
+                    "name": "EngineRegistry",
+                    "values": [
+                        "BatteryVoltageAddress",
+                        "FuelLevelAddress",
+                        "EngineSpeedAddress",
+                        "EngineTemperatureAddress",
+                        "OilTemperatureAddress",
+                        "OilPressureAddress",
+                        "BatteryVoltageCoefficient",
+                        "FuelLevelCoefficient",
+                        "EngineSpeedCoefficient",
+                        "EngineTemperatureCoefficient",
+                        "OilTemperatureCoefficient",
+                        "OilPressureCoefficient"
+                    ]
+                }
+            ],
+            "lineNumber": 10,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "batteryVoltage",
+                    "notify": "batteryVoltageChanged",
+                    "read": "batteryVoltage",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "fuelLevel",
+                    "notify": "fuelLevelChanged",
+                    "read": "fuelLevel",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "engineSpeed",
+                    "notify": "engineSpeedChanged",
+                    "read": "engineSpeed",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "engineTemperature",
+                    "notify": "engineTemperatureChanged",
+                    "read": "engineTemperature",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "oilTemperature",
+                    "notify": "oilTemperatureChanged",
+                    "read": "oilTemperature",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "name": "oilPressure",
+                    "notify": "oilPressureChanged",
+                    "read": "oilPressure",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "EngineStats",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "batteryVoltageChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "fuelLevelChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "engineSpeedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "engineTemperatureChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "oilTemperatureChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "oilPressureChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "isConnected",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 6,
+                    "name": "queryStats",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "AbstractStats"
+                }
+            ]
+        }
+    ],
+    "inputFile": "EngineStats.h",
+    "outputRevision": 69
+}

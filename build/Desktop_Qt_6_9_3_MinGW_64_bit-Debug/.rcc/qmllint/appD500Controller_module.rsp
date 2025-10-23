@@ -1,0 +1,16 @@
+-I
+D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug
+-I
+D:/Work/Software/Qt/6.9.3/mingw_64/qml
+--resource
+D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/qmake_D500Controller.qrc
+--resource
+D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/appD500Controller_raw_qml_0.qrc
+--resource
+D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/appD500Controller_raw_qml_0_extra_qmldirs.qrc
+--resource
+D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/resources.qrc
+--resource
+D:/Projects/Qt/D500Controller/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/appD500Controller_translations.qrc
+--module
+D500Controller
